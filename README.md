@@ -8,4 +8,8 @@ This is the best and good serving with good quality and **price**.This is the fi
 2. Chicken Biriyani
 9. Spl Chicken Biriyani
 
+- Lakaram Tank bund
+- 1000 piller temple
+- Deloitte Towers
+
 
