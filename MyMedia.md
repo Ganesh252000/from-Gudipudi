@@ -4,6 +4,8 @@ My favorite song is Naatu Naatu from the movie RRR.Which is directed one of the 
 
 ![alt text](ganesh.jpg)
 
+---
+
 ## Table 
 
 | Song name | Reason   | lyric writer |
