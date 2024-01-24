@@ -8,6 +8,8 @@ My favorite song is Naatu Naatu from the movie RRR.Which is directed one of the 
 
 ## Table 
 
+This table gives the details about my favourate songs
+
 | Song name | Reason   | lyric writer |
 | :--- | :---: | ---: |
 | Naatu Naatu| Feel good song | Chandrabose |
@@ -26,6 +28,8 @@ My favorite song is Naatu Naatu from the movie RRR.Which is directed one of the 
 ---
 
 ## Code Fencing
+
+Construct a new type based on partial properties of an interface.
 
 ```
 interface MyInterface {
