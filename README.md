@@ -12,4 +12,6 @@ This is the best and good serving with good quality and **price**.This is the fi
 - 1000 piller temple
 - Deloitte Towers
 
+![page](MyMedia.md)
+
 
