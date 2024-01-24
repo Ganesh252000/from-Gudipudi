@@ -3,3 +3,12 @@ My favorite song is Naatu Naatu from the movie RRR.Which is directed one of the 
 
 
 ![alt text](ganesh.jpg)
+
+## Table 
+
+| Song name | Reason   | lyric writer |
+| :--- | :---: | ---: |
+| Naatu Naatu| Feel good song | Chandrabose |
+| Darling | Love song | RamajogayyaSastry |
+| Oke Oka Jeevitham | Motivational song | Yuvan Shankar Raja |
+| Sooreede | Friendship song | Krishna Kanth|
