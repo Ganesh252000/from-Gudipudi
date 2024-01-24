@@ -14,3 +14,11 @@ My favorite song is Naatu Naatu from the movie RRR.Which is directed one of the 
 | Darling | Love song | RamajogayyaSastry |
 | Oke Oka Jeevitham | Motivational song | Yuvan Shankar Raja |
 | Sooreede | Friendship song | Krishna Kanth|
+
+---
+
+## Quotes
+
+> Let me live, love, and say it well in good sentences. *Sylvia Plath*
+>
+> Self-awareness and self-love matter. Who we are is how we lead. *Brene Brown*
