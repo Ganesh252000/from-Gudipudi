@@ -22,3 +22,18 @@ My favorite song is Naatu Naatu from the movie RRR.Which is directed one of the 
 > Let me live, love, and say it well in good sentences. *Sylvia Plath*
 >
 > Self-awareness and self-love matter. Who we are is how we lead. *Brene Brown*
+
+---
+
+## Code Fencing
+
+```
+interface MyInterface {
+  id: number;
+  name: string;
+  properties: string[];
+}
+
+type MyShortType = Pick;
+```
+Link to the snippet source <https://code.pieces.app/collections/typescript>
