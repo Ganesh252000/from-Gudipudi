@@ -12,15 +12,4 @@ This is the best and good serving with good quality and **price**.This is the fi
 - 1000 piller temple
 - Deloitte Towers
 
-![page](MyMedia.md)
-
----
-
-## Table 
-
-| Book name | Book Price | Book Author |
-| :--- | :---: | ---: |
-|Rich dad poor dad| 456 | Robert |
-| Telugu | 54 | TYecher |
-| Hindi | 45 | Shafi |
 
